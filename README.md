@@ -1,3 +1,3 @@
 # hello-word
-Primeiro programa feito pelo guit hub
+Primeiro programa feito pelo GitHub
 nfjkdnfjsdnsjkn
