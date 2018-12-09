@@ -1,2 +1,3 @@
 # hello-word
-Primeiro programa feito pelo guit hub
+Primeiro programa feito pelo GitHub
+Iniciando tutorial verificando o programa
