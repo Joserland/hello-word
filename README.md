@@ -1,3 +1,3 @@
 # hello-word
 Primeiro programa feito pelo GitHub
-nfjkdnfjsdnsjkn
+Iniciando tutorial verificando o programa
